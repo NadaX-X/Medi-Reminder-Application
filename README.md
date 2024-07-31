@@ -1,5 +1,3 @@
-جيد، دعني أعرض لك تحليل مفصل لما يمكنك إدراجه في ملف README الخاص بتطبيق Medi Reminder:
-
 # Medi Reminder Application
 
 ## Project Description
@@ -25,5 +23,5 @@ If you'd like to contribute to the Medi Reminder project, please follow these st
 3. Submit a pull request with a detailed description of your changes.
 
 ## License
-The Medi Reminder Application is released under the [MIT License](https://opensource.org/licenses/MIT).
+This project is licensed under the [MIT License](LICENSE).
 
