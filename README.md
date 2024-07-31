@@ -16,11 +16,8 @@ The Medi Reminder Application is an Android app that serves as a medication remi
 3. The app will automatically send you notifications when it's time to take your medication.
 4. Tap the "Taken" button when you've taken your medication to update your adherence history.
 
-## Contributing
-If you'd like to contribute to the Medi Reminder project, please follow these steps:
-1. Fork the repository on GitHub.
-2. Make your changes and improvements.
-3. Submit a pull request with a detailed description of your changes.
+### Contributing
+Contributions are welcome! If you find any issues or have suggestions for improvements, please create a new issue or submit a pull request.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
