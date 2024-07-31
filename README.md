@@ -1,20 +1,28 @@
-# Medi Reminder Application
+## Medi-Reminder-Application
 
-## Project Description
-The Medi Reminder Application is an Android app that serves as a medication reminder system. It allows users to input their medication information, including the name, dosage, and frequency. The app then sets customized timers to alert users when it's time to take their prescribed medication.
+The Medi Reminder Application was developed by using Android Studio software development platform.
+The app functions as a reminder system, enabling users to input their medication information 
+and set customized timers to alert them when it is time to take their prescribed dosage.
+
 
 ## Features
-- Input medication details (name, dosage, frequency)
-- Set customized reminder timers for each medication
-- Receive notifications when it's time to take medication
-- Ability to mark medications as "taken" to keep track of adherence
-- Simple and intuitive user interface
+- Set reminders for taking medications
+- Customize reminder schedules based on medication type, dosage, and frequency
+- Track medication history and adherence
+- Receive push notifications for upcoming medication doses
+- Integrated with a medication database for easy reference and information
+  
+## Installation
+To run the Medi-Reminder-Application, you will need to have an Android or iOS device, and the 
+necessary development environment set up on your local machine. 
 
-## Usage
-1. Add your medication information by tapping the "Add Medication" button.
-2. Set the frequency and timing for each medication.
-3. The app will automatically send you notifications when it's time to take your medication.
-4. Tap the "Taken" button when you've taken your medication to update your adherence history.
+##  Usage
+1. Launch the Medi-Reminder-Application on your device.
+2. Create a new medication or import existing medications from the medication database.
+3. Set the desired reminder schedule for each medication.
+4. Enable push notifications to receive alerts for upcoming medication doses.
+5. Track your medication history and adherence within the application.
+
 
 ### Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please create a new issue or submit a pull request.
